@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/AVGOfGiven3Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/EvOrOdNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/FactorialOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/LargestNumFrom3Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/LargestNumFromTwoN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/MultipleNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/POrNNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/SquareofNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/SumOfNnaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/SquareRootOfTheGivenNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaSessions/EvOrOdNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaSessions/EvOrOdNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaSessions/FactorialOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaSessions/FactorialOfNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
