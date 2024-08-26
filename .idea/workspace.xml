@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaBasicToAdvantage/JavaDay1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restAssured/Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restAssured/RestAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javacollections/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javacollections/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.List">
+  <component name="RunManager" selected="Application.Tesla">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacollections.List" />
       <module name="Selenium-2024--Waili" />
@@ -56,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSessions.Login" />
+    <configuration name="MethodOverriding$Tesla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollections.MethodOverriding$Tesla" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSessions.*" />
+          <option name="PATTERN" value="javacollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,10 +74,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MthodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollections.MthodOverloading" />
+      <module name="Selenium-2024--Waili" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tesla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacollections.Tesla" />
+      <module name="Selenium-2024--Waili" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAPI.testPostRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-2024--Waili" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssured" />
+      <option name="MAIN_CLASS_NAME" value="restAssured.RestAPI" />
+      <option name="METHOD_NAME" value="testPostRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tesla" />
+        <item itemvalue="Application.MethodOverriding$Tesla" />
+        <item itemvalue="Application.MthodOverloading" />
+        <item itemvalue="TestNG.RestAPI.testPostRequest" />
         <item itemvalue="Application.List" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>

@@ -1,13 +1,14 @@
 package javaSessions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.File;
 import java.time.Duration;
+import java.util.List;
 
 public class Login {
     public static void main(String[] args){
@@ -36,6 +37,23 @@ public class Login {
         WebDriverWait wait= new WebDriverWait(driver, Duration.ofSeconds(10));
         WebElement MyAccount= driver.findElement(By.xpath("//*[@id=\"content\"]/h2[1]"));
         assert MyAccount.isDisplayed();
+
+        //
+        List<WebElement> link= driver.findElements(By.cssSelector("a"));
+        //get title
+        JavascriptExecutor js= (JavascriptExecutor) driver;
+        String title= js.executeScript( "returnDocument.title;").toString();
+
+        //TakeScreenshot interface
+        File screnshot= ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+        //FileUtils.copyFile( screnshot, new File(""));
+
+
+
+
+
+
+
 
         driver.quit();
 
