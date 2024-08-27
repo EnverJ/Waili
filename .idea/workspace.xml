@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javacollections/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restAssured/Pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/restAssured/RestAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/javacollections/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javacollections/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

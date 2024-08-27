@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.File;
 import java.time.Duration;
 import java.util.List;
+import java.util.Set;
 
 public class Login {
     public static void main(String[] args){
@@ -48,6 +49,15 @@ public class Login {
         File screnshot= ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         //FileUtils.copyFile( screnshot, new File(""));
 
+     //get window handlers
+        Set<String> handles= driver.getWindowHandles();
+        String[] handleArray= handles.toArray( new String[0]);
+        driver.switchTo().window(handleArray[3]);
+
+
+       // Dimension size= element.getSize();
+        //int height = size.getHeight();
+        //int width= size.getWidth();
 
 
 
