@@ -13,7 +13,7 @@ public class RestAPI {
     public void testPostRequest() {
         RestAssured.baseURI = "https://jsonPlaceholder.typicode.com";
         //   String requestBody = "{\"name\":\"Tom\",\"age\":\"23\",\"address\":\"655SStreet\"}";
-        Pojo pojo = new Pojo("Enver", 23, "799  Stret");
+        Pojo pojo = new Pojo("Enver", 23, "799  Street");
         //sending post request
         Response response = given()
                 .header("Content-type", "application/json")
