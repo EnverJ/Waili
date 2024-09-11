@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CheckForPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FactorialofaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/PrimeNumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaSessions/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +43,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tesla">
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacollections.List" />
+  <component name="RunManager" selected="Application.PrimeNumberCheck">
+    <configuration name="CheckForPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.CheckForPalindrome" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacollections.*" />
+          <option name="PATTERN" value="Java30Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding$Tesla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacollections.MethodOverriding$Tesla" />
+    <configuration name="FactorialofaNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.FactorialofaNumber" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacollections.*" />
+          <option name="PATTERN" value="Java30Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MthodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacollections.MthodOverloading" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.FibonacciSeries" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacollections.*" />
+          <option name="PATTERN" value="Java30Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tesla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacollections.Tesla" />
+    <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.PrimeNumberCheck" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacollections.*" />
+          <option name="PATTERN" value="Java30Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,31 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestAPI.testPostRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.ReverseString" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="restAssured.*" />
+          <option name="PATTERN" value="Java30Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="restAssured" />
-      <option name="MAIN_CLASS_NAME" value="restAssured.RestAPI" />
-      <option name="METHOD_NAME" value="testPostRequest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tesla" />
-        <item itemvalue="Application.MethodOverriding$Tesla" />
-        <item itemvalue="Application.MthodOverloading" />
-        <item itemvalue="TestNG.RestAPI.testPostRequest" />
-        <item itemvalue="Application.List" />
+        <item itemvalue="Application.PrimeNumberCheck" />
+        <item itemvalue="Application.FactorialofaNumber" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.CheckForPalindrome" />
+        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
