@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CheckForPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FactorialofaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/PrimeNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CountVowelsAndConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindLargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/MergeTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/RemoveDuplicatesfromAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/SortOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumberCheck">
-    <configuration name="CheckForPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.CheckForPalindrome" />
+  <component name="RunManager" selected="Application.RemoveDuplicatesfromAnArray">
+    <configuration name="CountVowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.CountVowelsAndConsonants" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialofaNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.FactorialofaNumber" />
+    <configuration name="FindLargestElementinAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.FindLargestElementinAnArray" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.FibonacciSeries" />
+    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.MergeTwoArrays" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.PrimeNumberCheck" />
+    <configuration name="RemoveDuplicatesfromAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.RemoveDuplicatesfromAnArray" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.ReverseString" />
+    <configuration name="SortOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.SortOfArray" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumberCheck" />
-        <item itemvalue="Application.FactorialofaNumber" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.CheckForPalindrome" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.RemoveDuplicatesfromAnArray" />
+        <item itemvalue="Application.FindLargestElementinAnArray" />
+        <item itemvalue="Application.MergeTwoArrays" />
+        <item itemvalue="Application.SortOfArray" />
+        <item itemvalue="Application.CountVowelsAndConsonants" />
       </list>
     </recent_temporary>
   </component>
