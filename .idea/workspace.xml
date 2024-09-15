@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CountVowelsAndConsonants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindLargestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/RemoveDuplicatesfromAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/SortOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ArmStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CalculateGCDOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CheckForAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CountTheNumberOfDigitsInANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindMaxMinNumUseCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/WordCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +45,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesfromAnArray">
-    <configuration name="CountVowelsAndConsonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.CountVowelsAndConsonants" />
+  <component name="RunManager" selected="Application.CountTheNumberOfDigitsInANumber">
+    <configuration name="ArmStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.ArmStrongNumber" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargestElementinAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.FindLargestElementinAnArray" />
+    <configuration name="CalculateGCDOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.CalculateGCDOfTwoNumbers" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.MergeTwoArrays" />
+    <configuration name="CheckForAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.CheckForAnagram" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesfromAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.RemoveDuplicatesfromAnArray" />
+    <configuration name="CountTheNumberOfDigitsInANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.CountTheNumberOfDigitsInANumber" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.SortOfArray" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.ReverseNumber" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicatesfromAnArray" />
-        <item itemvalue="Application.FindLargestElementinAnArray" />
-        <item itemvalue="Application.MergeTwoArrays" />
-        <item itemvalue="Application.SortOfArray" />
-        <item itemvalue="Application.CountVowelsAndConsonants" />
+        <item itemvalue="Application.CountTheNumberOfDigitsInANumber" />
+        <item itemvalue="Application.CheckForAnagram" />
+        <item itemvalue="Application.CalculateGCDOfTwoNumbers" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.ArmStrongNumber" />
       </list>
     </recent_temporary>
   </component>
