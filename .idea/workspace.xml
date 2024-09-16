@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6d2312-1f92-4c78-ab57-05c2eb918546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ArmStrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CalculateGCDOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CheckForAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/CountTheNumberOfDigitsInANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindMaxMinNumUseCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindMissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/FindSecondLargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/PrintPascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/PrintPrimeNumbersInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java30Coding/SwapTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +43,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountTheNumberOfDigitsInANumber">
-    <configuration name="ArmStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.ArmStrongNumber" />
+  <component name="RunManager" selected="Application.FindMissingNumberInArray">
+    <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.FindMissingNumberInArray" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateGCDOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.CalculateGCDOfTwoNumbers" />
+    <configuration name="FindSecondLargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.FindSecondLargestElementInAnArray" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckForAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.CheckForAnagram" />
+    <configuration name="PrintPascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.PrintPascalsTriangle" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountTheNumberOfDigitsInANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.CountTheNumberOfDigitsInANumber" />
+    <configuration name="PrintPrimeNumbersInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.PrintPrimeNumbersInARange" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java30Coding.ReverseNumber" />
+    <configuration name="SwapTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java30Coding.SwapTwoNumbers" />
       <module name="Selenium-2024--Waili" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountTheNumberOfDigitsInANumber" />
-        <item itemvalue="Application.CheckForAnagram" />
-        <item itemvalue="Application.CalculateGCDOfTwoNumbers" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.ArmStrongNumber" />
+        <item itemvalue="Application.FindMissingNumberInArray" />
+        <item itemvalue="Application.PrintPascalsTriangle" />
+        <item itemvalue="Application.SwapTwoNumbers" />
+        <item itemvalue="Application.FindSecondLargestElementInAnArray" />
+        <item itemvalue="Application.PrintPrimeNumbersInARange" />
       </list>
     </recent_temporary>
   </component>
